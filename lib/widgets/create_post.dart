@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wall/models.dart/models.dart';
+import 'package:wall/models/models.dart';
 
 class CreatePostContainer extends StatelessWidget {
   final User currentUser;

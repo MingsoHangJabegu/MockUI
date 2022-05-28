@@ -1,4 +1,4 @@
-import 'package:wall/models.dart/models.dart';
+import 'package:wall/models/models.dart';
 
 final User currentUser = User(
   name: 'Bloodbook',
